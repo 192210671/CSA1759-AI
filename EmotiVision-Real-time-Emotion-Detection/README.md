@@ -28,7 +28,7 @@ pip install -r requirements.txt
 1. Clone the repository:
 
 ```
-git@github.com:192210671/CSA1759-AI.git
+git clone https://github.com/192210671/CSA1759-AI.git
 ```
 
 2. Navigate to the project directory:
