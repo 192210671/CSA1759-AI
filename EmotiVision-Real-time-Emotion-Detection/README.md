@@ -28,7 +28,7 @@ pip install -r requirements.txt
 1. Clone the repository:
 
 ```
-git clone https://github.com/HimanshuMohanty-Git24/EmotiVision-Real-time-Emotion-Detection.git
+git@github.com:192210671/CSA1759-AI.git
 ```
 
 2. Navigate to the project directory:
